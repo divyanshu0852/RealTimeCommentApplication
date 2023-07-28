@@ -1,0 +1,17 @@
+{
+  "name": "realtimecmment",
+  "version": "1.0.0",
+  "description": "real time comment web application",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.2"
+  }
+}

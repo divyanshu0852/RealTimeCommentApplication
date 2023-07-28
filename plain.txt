@@ -1,0 +1,10 @@
+Todos:
+
+[-] npm  init project and install all
+ dependecies , express, nodemon
+
+ [-] create folders and files we need , public , js, css, index, img
+
+
+ [-] setup express server.js
+
